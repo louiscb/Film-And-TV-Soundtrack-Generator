@@ -1,7 +1,5 @@
 # Hackday Project
 
-Please read the [Wiki](https://gl-intern.shazamteam.net/hackday/intern-hackday/wikis/home) and follow the instructions.
-
 ## Idea
 
 A website that is as an online collection of music used in films and tv shows.
