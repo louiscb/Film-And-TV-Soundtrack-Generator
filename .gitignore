@@ -1,0 +1,6 @@
+Website/node_modules/**
+Website/node_modules
+*.DS_Store
+*.iml
+*.idea
+Website/.idea/

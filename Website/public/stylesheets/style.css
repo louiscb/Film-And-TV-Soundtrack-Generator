@@ -1,0 +1,32 @@
+body {
+  padding: 0px 50px 50px 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #C9FFEC;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#wrapper {
+  background-color: #C9FFEC;
+  padding: 5px 25px 25px 25px;
+}
+
+#header {
+  text-align: center;
+  padding: 5px;
+  vertical-align: middle;
+  font-size: 30px;
+  background-color: white;
+}
+
+#content {
+  margin-top: 15px;
+  background-color: white;
+  padding: 5px 25px 25px 25px;
+}
+
+#content h2 {
+  font-size: 30px;
+}
