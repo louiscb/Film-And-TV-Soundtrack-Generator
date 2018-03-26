@@ -6,7 +6,7 @@ A website that is as an online collection of music used in films and tv shows.
 
 Users type in their favourite film or TV show into the website and will see a list of the music it contains at the specific time it appears in the video.
 
-The program will use Shazam's audio recognition software to automatically process videos and will add data about the music it detects to the website.
+The program uses Shazam's audio recognition API to automatically process videos and adds data about the music it detects to the website.
 
 ### Milestones:
 
